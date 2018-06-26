@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "updateUrl": "https://raw.githubusercontent.com/tst2005/userstyles.org/master/123.json",
-  "md5Url": "https://raw.githubusercontent.com/tst2005/userstyles.org/master/123.md5",
+  "updateUrl": "https://tst2005.github.io/userstyles.org/123.json",
+  "md5Url": "https://tst2005.github.io/userstyles.org/123.md5",
   "url": "https://github.com/tst2005/userstyles.org/",
   "originalMd5": "595cab44991e2a29ad5cdc10becde02f",
   "installDate": 1529947768265,
