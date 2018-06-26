@@ -1,0 +1,24 @@
+{
+  "sections": [
+    {
+      "urls": [
+        "http://localhost/test"
+      ],
+      "urlPrefixes": [
+        "http://localhost/prefix"
+      ],
+      "domains": [
+        "domaintest"
+      ],
+      "regexps": [
+        "http://URLsregexptest.*"
+      ],
+      "code": "html {\r\n    color: red;\r\n}"
+    }
+  ],
+  "url": "http://userstyles.org/styles/161796",
+  "updateUrl": "https://raw.githubusercontent.com/tst2005/userstyles.org/master/123.json",
+  "md5Url": "https://raw.githubusercontent.com/tst2005/userstyles.org/master/123.md5",
+  "originalMd5": "838e7f8c2f2c1b324152252c27d91e72",
+  "name": "test-123"
+}

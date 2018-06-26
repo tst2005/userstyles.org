@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "updateUrl": "https://raw.githubusercontent.com/tst2005/userstyles.org/master/123.json",
+  "md5Url": "https://raw.githubusercontent.com/tst2005/userstyles.org/master/123.md5",
+  "url": "https://github.com/tst2005/userstyles.org/",
+  "originalMd5": "595cab44991e2a29ad5cdc10becde02f",
+  "installDate": 1529947768265,
+  "sections": [
+    {
+      "code": "html {\r\n    color: red;\r\n}",
+      "urls": [],
+      "urlPrefixes": [
+        "http://localhost/"
+      ],
+      "domains": [],
+      "regexps": []
+    }
+  ],
+  "name": "test-123",
+  "originalDigest": "294abbf11599d046f752ebd44608d11d0dbb0007",
+  "id": 48
+}
